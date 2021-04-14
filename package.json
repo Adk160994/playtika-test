@@ -10,8 +10,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest",
-    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "babel-jest": "^23.0.0-alpha.0",
